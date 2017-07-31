@@ -1,23 +1,4 @@
-<!DOCTYPE html>
-<html lang="zh-CN">
-<head>
-<meta charset="utf-8">
-<title>TICKER Talk ~ GitHub</title>
-<link rel="stylesheet" href="css/jquery.fullPage.css">
-<style>
-.section { text-align: center; font: 50px "Microsoft Yahei"; color: #fff;}
-</style>
-<script src="js/jquery-1.8.3.min.js"></script>
-<script src="js/jquery.fullPage.min.js"></script>
-<script>
-$(function(){
-	$('#dowebok').fullpage({
-		sectionsColor: ['#1bbc9b', '#4BBFC3', '#4BBFC3', '#4BBFC3', '#7BAABE', '#7BAABE', '#7BAABE', '#000000', '#000000', '#000000', '#000000', '#000000','#000000', '#84BD1A', '#BE951A', '#BE951A', '#FFAC74'],
-		'navigation': true,
-	});
-});
-</script>
-</head>
+
 
 <body>
 
